@@ -1,7 +1,7 @@
-### Questao Python:
+# Questao Python:
 
 Questao [p1.py](./p1.py) Python
-# Requisitos do Bubble Sort:
+### Requisitos do Bubble Sort:
 
 1. Input: O algoritmo deve receber uma lista de números como entrada.
 2. Ordenação: O algoritmo deve ordenar os números na lista em ordem crescente. Ele deve comparar elementos adjacentes e trocá-los de posição se estiverem fora de ordem.
@@ -12,7 +12,7 @@ Questao [p1.py](./p1.py) Python
 7. Temporário: Durante a troca, um valor temporário (variável temp) deve ser usado para armazenar o valor de numeros[y] temporariamente.
 8. Saída: O algoritmo deve retornar a lista ordenada após todas as iterações.
 
-### Questao Java:
+# Questao Java:
 
 Questao [p2.java](./p2.java) Java
 
@@ -25,7 +25,7 @@ Requisitos: Cores App
 5. O programa deve permitir a atualização de uma cor na lista, com base na posição.
 6. O programa deve imprimir a lista de cores após cada operação (adição, remoção, ordenação e atualização).
 
-# Cenários de Uso:
+### Cenários de Uso:
 
 1. Adicionar Cores:
 
@@ -57,16 +57,16 @@ Requisitos: Cores App
 * O sistema atualiza a cor na terceira posição da lista para "BRANCO".
 * O sistema imprime a lista atualizada.
 
-# Restrições:
+### Restrições:
 
 * As posições de remoção, atualização e verificação devem ser 0-indexadas.
 * O sistema deve garantir que a posição fornecida pelo usuário seja válida para todas as operações.
 * A lista de cores não deve conter duplicatas.
 
-### Questao JavaScript:
+# Questao JavaScript:
 
 Questao [p3.js](./p3.js) JavaScript 
-# Requisitos Funcionais:
+### Requisitos Funcionais:
 1. O programa deve permitir que o usuário digite um número.
 2. O número digitado pelo usuário deve estar no intervalo de 0 a 100;
 3. O programa deve calcular o fatorial do número digitado.
