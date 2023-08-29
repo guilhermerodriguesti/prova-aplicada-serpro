@@ -1,6 +1,6 @@
 ### Questao Python:
 
-Questao [p1.py](#p1.py) Python
+Questao [p1.py](./p1.py) Python
 # Requisitos do Bubble Sort:
 
 1. Input: O algoritmo deve receber uma lista de números como entrada.
@@ -14,7 +14,7 @@ Questao [p1.py](#p1.py) Python
 
 ### Questao Java:
 
-Questao [p2.java](#p2.java) Java
+Questao [p2.java](./p2.java) Java
 
 Requisitos: Cores App
 
@@ -65,7 +65,7 @@ Requisitos: Cores App
 
 ### Questao JavaScript:
 
-Questao [p3.js](#p3.js) JavaScript 
+Questao [p3.js](./p3.js) JavaScript 
 # Requisitos Funcionais:
 1. O programa deve permitir que o usuário digite um número.
 2. O número digitado pelo usuário deve estar no intervalo de 0 a 100;
